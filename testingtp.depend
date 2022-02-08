@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1600218962 source:c:\users\lucas\desktop\testingtp\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
